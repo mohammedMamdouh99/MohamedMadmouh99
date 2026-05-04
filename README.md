@@ -1,6 +1,6 @@
 # Mohamed Mamdouh Ismail
 
-AI & Automation Specialist building real-world automation systems using n8n, APIs, and AI integrations.
+AI & Automation Specialist focused on building scalable automation systems that reduce manual work and improve operational efficiency.
 
 ---
 
@@ -13,22 +13,31 @@ AI & Automation Specialist building real-world automation systems using n8n, API
 ---
 
 ## Projects
-- HR Email Automation System  
-- Technical Support Chatbot (Telegram Bot)  
-- AI Logistics News Automation System  
+- [HR Email Automation System](https://github.com/mohammedMamdouh99/AI-Automation-Projects)
+- [Technical Support Chatbot (Telegram Bot)](https://github.com/mohammedMamdouh99/AI-Automation-Projects)
+- [AI Logistics News Automation System](https://github.com/mohammedMamdouh99/AI-Automation-Projects)
+
+---
+
+## Skills
+- Workflow Automation (n8n)  
+- API Integrations  
+- AI Systems Design  
+- Process Automation  
+- Chatbot Development  
 
 ---
 
 ## Tech Stack
 - n8n  
 - OpenAI API  
-- Google Sheets  
+- Google Sheets API  
+- Gmail API  
+- Telegram Bot API  
 - REST APIs  
-- Telegram Bots  
 
 ---
 
 ## Contact
-Email:mohammeddo7aa@gmail.com 
-Mobile: 01100579364
+Email: mo.mamdouh.ismail@gmail.com  
 Location: Giza, Egypt  
