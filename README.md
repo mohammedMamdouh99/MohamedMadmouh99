@@ -6,7 +6,7 @@
 *Building intelligent systems that eliminate manual work*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-mamdouh-ui)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mo.mamdouh.ismail@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammeddo7aa@gmail.com)
 [![Location](https://img.shields.io/badge/Giza%2C_Egypt-📍-lightgrey?style=for-the-badge)](https://github.com/mohammedMamdouh99)
 
 </div>
